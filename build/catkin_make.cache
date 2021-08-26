@@ -1,0 +1,2 @@
+tutorials
+-DCATKIN_DEVEL_PREFIX=/home/kun/python_catkin/devel -DCMAKE_INSTALL_PREFIX=/home/kun/python_catkin/install -G Unix Makefiles

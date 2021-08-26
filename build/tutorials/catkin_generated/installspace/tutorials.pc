@@ -1,0 +1,8 @@
+prefix=/home/kun/python_catkin/install
+
+Name: tutorials
+Description: Description of tutorials
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
